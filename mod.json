@@ -1,0 +1,10 @@
+{
+  "id": "zoom_out",
+  "name": "Zoom Out",
+  "description": "What the mod does, in one line.",
+  "version": "0.1.0",
+  "author": "Player",
+  "api": "1.5",
+  "entry": "Main",
+  "uses": []
+}
