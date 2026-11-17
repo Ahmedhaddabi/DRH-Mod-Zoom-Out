@@ -1,10 +1,11 @@
 {
   "id": "zoom_out",
   "name": "Zoom Out",
-  "description": "What the mod does, in one line.",
+  "description": "Zoom the dungeon camera out to see more of the floor, with a slider and - / = keys.",
   "version": "0.1.0",
-  "author": "Player",
+  "author": "Ahmedhaddabi",
   "api": "1.5",
   "entry": "Main",
-  "uses": []
+  "uses": ["extends"],
+  "drh": "18"
 }
